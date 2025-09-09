@@ -26,3 +26,18 @@ It provides smooth time tracking with a professional and responsive user interfa
 1. Clone this repository:  
    ```bash
    git clone https://github.com/vinayakvr4321/stopwatch-app.git
+
+---
+📌 Internship Info
+------------------
+
+This project is part of the **Web Development Internship at Prodigy InfoTech**.
+
+📅 Task-02: Stopwatch Web Application
+
+---
+## 👨‍💻 Author
+
+- **Vinayak Raj Gupta**  
+  B.Tech ECE @ GNIT | Web Development Intern @ Prodigy InfoTech  
+  [LinkedIn](https://www.linkedin.com/in/vinayakrajgupta) | [GitHub](https://github.com/vinayakvr4321)
