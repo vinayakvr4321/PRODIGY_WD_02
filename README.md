@@ -21,13 +21,6 @@ It provides smooth time tracking with a professional and responsive user interfa
 - **JavaScript (Vanilla JS)** – Stopwatch logic & interactivity  
 
 ---
-
-## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/vinayakvr4321/stopwatch-app.git
-
----
 📌 Internship Info
 ------------------
 
